@@ -74,7 +74,7 @@ class ToleranceAdapter extends BaseTableAdapter {
     @Override
     public int getWidth(int column) {
         if (column == -1) {
-            float WIDTH_FIRST_COLUMN = 110;
+            float WIDTH_FIRST_COLUMN = 85;
             return Math.round(WIDTH_FIRST_COLUMN * density);
         } else {
             float WIDTH_OTHER_COLUMN = 70;
