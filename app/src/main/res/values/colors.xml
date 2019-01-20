@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
+
+    <color name="background_divider">#fff</color>
+
+
+    <color name="background_header_first_column">#ff0000</color>
+    <color name="background_header">#64b5f6</color>
+
+    <color name="divider_column_first">#89a8d9</color>
+    <color name="divider_column_second">#ffB3C0CD</color>
+
+    <color name="divider_column">#90caf9</color>
+
+    <color name="divider_header_and_fotter">#1976d2</color>
+
+
+    <color name="background_row_1">#e3f2fd</color>
+    <color name="background_row_2">#bbdefb</color>
+
+
+
+    <color name="indigo_50">#e8eaf6</color>
+
+    <color name="indigo_200">#9fa8da</color>
+
+
+    <color name="indigo_500">#3f51b5</color>
+
+
+    <color name="indigo_900">#1a237e</color>
+
+    <color name="colorPrimary">@color/indigo_500</color>
+    <color name="colorPrimaryDark">#0d47a1</color>
+
     <color name="colorAccent">#D81B60</color>
+
 </resources>
